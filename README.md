@@ -30,8 +30,13 @@ Copy and paste these prompts into a `Google Doc`. Steps on how to create a googl
 Describe the conversations you had this sprint with your product owner(s) and team.
 
 - Describe the product and features you plan to deliver.
+The application we are creating is meant to be a one-stop-shop for tenants and landlords to handle all property chores and work orders. Three of the biggest features we have discussed is adding the ability to upload forms and documents, a messaging add-on, as well as implementing Stripe to handle payments.
+
 - How did these conversations determine the features you will deliver during Labs?
+Through our conversation we nit picked some of the finer details of the app and found a lot of missing parts and functionalities. This caused us to change course and schedule time to bring the app up to par before getting to the greater features.
+
 - How did your discussions change the way you viewed the product?
+Originally we wanted to track all expenses and incoming revenue. However, we then discussed the difficulty of a full fledged accounting app and decided to aim for more of a basic approach to the expenses solution. Instead of having a full quick books style app, it will just track basic expenses and revenue.
 
 ### Prompt 2
 
